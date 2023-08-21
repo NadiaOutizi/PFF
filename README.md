@@ -10,3 +10,6 @@ i made this  project using laravel it's an event management system
 ![screencapture-127-0-0-1-8000-register-2023-08-21-16_52_52](https://github.com/NadiaOutizi/PFF/assets/107075774/63157810-8bd2-4022-a22d-0abdcba10e4e)
 ![screencapture-127-0-0-1-8000-admin-dashboard-2023-08-21-16_53_21](https://github.com/NadiaOutizi/PFF/assets/107075774/6da09da0-b66a-4e40-b29c-c5bb8a5e878b)
 ![screencapture-127-0-0-1-8000-admin-dashboard-2023-08-21-16_53_53](https://github.com/NadiaOutizi/PFF/assets/107075774/8b5ff90e-24b1-410a-9bce-ece5f178e1cc)
+![screencapture-127-0-0-1-8000-users-2023-08-21-16_55_54](https://github.com/NadiaOutizi/PFF/assets/107075774/fa9cb89f-a3b7-42cb-8480-6cab66f65094)
+![screencapture-127-0-0-1-8000-centre-2023-08-21-16_56_24](https://github.com/NadiaOutizi/PFF/assets/107075774/8dc69a2b-b77d-47a8-9ffe-2cb7420d5889)
+![screencapture-127-0-0-1-8000-evenements-2023-08-21-16_57_01](https://github.com/NadiaOutizi/PFF/assets/107075774/c919e756-5015-4154-99da-f878e6bc449d)
