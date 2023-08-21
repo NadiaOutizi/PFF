@@ -8,3 +8,5 @@ i made this  project using laravel it's an event management system
 ![screencapture-127-0-0-1-8000-about-2023-08-21-22_55_37](https://github.com/NadiaOutizi/PFF/assets/107075774/8677ca18-05fb-443f-9f0f-cb3f40e9f3cb)
 ![headjpg](https://github.com/NadiaOutizi/PFF/assets/107075774/173f2bbe-3c35-449c-add1-c73a81d7179e)
 ![screencapture-127-0-0-1-8000-calendar-2023-08-21-22_59_17](https://github.com/NadiaOutizi/PFF/assets/107075774/ac0e5e92-125a-485f-bad0-1b72e1cc09bc)
+![headjpg](https://github.com/NadiaOutizi/PFF/assets/107075774/173f2bbe-3c35-449c-add1-c73a81d7179e)
+![screencapture-127-0-0-1-8000-contact-2023-08-21-23_00_38](https://github.com/NadiaOutizi/PFF/assets/107075774/b151e96f-62ec-4f8a-81f6-6eb1759fa686)
